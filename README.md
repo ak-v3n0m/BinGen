@@ -30,7 +30,7 @@ apt update ; apt install git python python2 -y ; git clone https://github.com/ak
 ### I am Not Responsible for the Misuse of this Tool !!
 <br>
 <p align="center">
-<img src=".__src__/haxorbd1.png"/>
+<img src="https://i.ibb.co/KGyB2fV/IMG-20230107-184401-704.jpg"/>
 </p>
 
 ### << I AM NOT RESPONSIBLE FOR MISUSE >>
