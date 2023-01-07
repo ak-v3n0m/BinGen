@@ -42,4 +42,4 @@ apt update ; apt install git python python2 -y ; git clone https://github.com/ak
 #### [+] Easy for Beginners !
 
 ## Find Me on :
-[![Github](https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=telegram)](https://t.me/akvenomhackers)
+[![Github](https://img.shields.io/badge/Github-AK--V3N0M-blue?style=for-the-badge&logo=telegram)](https://t.me/akvenomhackers)
